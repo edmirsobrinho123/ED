@@ -1,0 +1,20 @@
+<h1> LISTA POSTS </h1>
+<h2>
+    <label>Voltar ao questionário </label>
+    <a href="/voltar">
+        <button> Voltar </button>
+    </a>
+</h2>
+<hr />
+{{#each posts}}
+id:{{id}} /
+nome completo:{{nomeCompleto}} /
+cpf: {{cpf}} /
+telefone: {{telefone}} /
+endereço: {{endereco}} /
+<a href="/deletar/{{id}}">
+    <button href="">Deletar</button>
+</a>
+<hr />
+<br>
+{{/each}}

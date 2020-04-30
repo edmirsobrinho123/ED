@@ -1,0 +1,2 @@
+C:\Users\LENOVO\source\repos\chatterbot\chatterbot\obj\Debug\PROJETO.njsprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\chatterbot\chatterbot\bin\Microsoft.NodejsTools.WebRole.dll
